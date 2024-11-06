@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-
+### About Me 
+I'm a Computer Science + Mejo student @Chapel-Hill, I am interested in design and functionality. I am to work in a field where I get to design along side using my technical skills. My plan B is pursue art full time.
 ### Skills
 - Painting
 - Design Thinking
