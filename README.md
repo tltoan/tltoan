@@ -2,7 +2,7 @@
 
 <!--
 
-I'm a [Computer Science + Mejo student @Chapel-Hill, I am interested in design and functionality. I love to cook, paint, and watching movies.
+## I'm a [Computer Science + Mejo student @Chapel-Hill, I am interested in design and functionality. I love to cook, paint, and watching movies.
 
 **tltoan/tltoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
