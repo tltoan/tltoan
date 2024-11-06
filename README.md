@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+### Classes
+I am currently in Mejo 487, Mejo 581, Comp 290, Econ 325, and Inls 161 + 201. My favorite however is Mejo 487, its a class about interactive web/media design where we code from scratch and I love it.
 <!--
 
 ## I'm a [Computer Science + Mejo student @Chapel-Hill, I am interested in design and functionality. I love to cook, paint, and watching movies.
